@@ -1,0 +1,15 @@
+
+
+body {
+	background-image: url("./images/back.png");
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px;
+	line-height: 50px;
+}
+
+h1{
+	font-size: 45px;
+	text-align: center;
+	font-family: Forte, serif;
+}
